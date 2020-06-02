@@ -1,0 +1,5 @@
+# This Project is based on Tkinter and database.
+## User has to register and login using proper credentials(5 digit account number and password has limmit upto 255)
+### User can view his savings(Account Balance).
+####User can credit(add money) top his savings.
+##### user can debit(withdraw money) from his saving(account) until minimum balance,which is zero(0).
