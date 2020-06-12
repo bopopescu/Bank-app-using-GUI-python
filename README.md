@@ -1,6 +1,6 @@
 # Bank-app-using-GUI-python
-Banking-Application-Softwar
-Banking Application Software verification support (Python, SQL, Tkinter GUI)
+## Banking-Application-Softwar
+### Banking Application Software verification support (Python, SQL, Tkinter GUI)
 
 Technologies
 In order to design maintenance software the basic requirements would be: a powerful Platform, reliable storage capability and a simple interface. All these have been accomplished by Python, a powerful cross-platform language that can run in any device with a Windows or GNU/Linux Interface. When coding an application, there is a requirement for dynamic content fulfilled by SQL. The mainly used technologies for the coding process of the software have been introduced below.
