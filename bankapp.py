@@ -224,7 +224,7 @@ class JK_bank:
         self.mainWindow(data, flag=0)
 
     def clear(self):
-        for i in self._root.pack_slaves():
+        for i in self._root.pack_subordinates():
             print(i.destroy())
 
     def logout(self):
